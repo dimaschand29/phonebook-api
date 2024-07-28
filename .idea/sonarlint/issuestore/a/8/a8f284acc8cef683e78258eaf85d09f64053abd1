@@ -1,0 +1,24 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òØ¶8É²¾Ç2J$c0d9c220-7207-4345-998e-429518854759
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ï²¾Ç2J$3cd57b1f-35ac-4e38-a9e0-3607ed9dec14
+i
+java:S1452"&Remove usage of generic wildcard type.(áÏàƒ8Ó²¾Ç2J$df5a5e4a-32f0-4c98-8ca0-d29ebb67834d
+‹
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÅØ…ó8Ô²¾Ç2J$af115089-44f0-4367-bbb0-6a2e487321b3
+n
+java:S1452"&Remove usage of generic wildcard type.(ó˜šôùÿÿÿÿ8Õ²¾Ç2J$2bd04343-2e62-492a-994f-21cfcfe1314b
+’
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ìÊÈòıÿÿÿÿ8Õ²¾Ç2J$b8c6a0e1-3f82-4268-8c5b-29e14cd8346c
+n
+java:S1452"&Remove usage of generic wildcard type.(Ãøú¨ÿÿÿÿÿ8Ö²¾Ç2J$5383aac5-9aa0-4718-928f-43f05443bf5b
+
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(á‹Ùˆıÿÿÿÿ8Ö²¾Ç2J$518d9345-ee89-425e-886e-d5dd3d48b976
+i
+java:S1452!"&Remove usage of generic wildcard type.(é©¹ä8Ø²¾Ç2J$ba9330fc-f245-45b8-9fae-c87b9e683be7
+
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(—âúòÿÿÿÿÿ8Ø²¾Ç2J$1e814458-9ba5-4161-9347-a266c153a59d
+i
+java:S1452&"&Remove usage of generic wildcard type.(ø«È­8Ù²¾Ç2J$ef25a97a-9fed-4850-9376-ac73b3bfea4a
+–
+java:S4488%"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(§âù¿ùÿÿÿÿ8Ù²¾Ç2J$8680a05b-9dd2-40d4-a85d-7b05828e233c

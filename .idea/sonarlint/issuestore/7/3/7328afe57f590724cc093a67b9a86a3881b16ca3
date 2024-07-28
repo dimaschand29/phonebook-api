@@ -1,0 +1,29 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8õ¬¿Ç2J$f744af0b-0c9c-476d-8d65-c57515b7fe9b
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‘Í¤ëüÿÿÿÿ8õ¬¿Ç2J$5f5c6c6b-7e9c-4653-a73f-5f157999a2de
+	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Šúå‡ıÿÿÿÿ8õ¬¿Ç2J$b4aec504-38c6-4f4f-8c29-554398d0ab44
+	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(‘Í¤ëüÿÿÿÿ8÷¬¿Ç2J$d782fd0b-9899-497b-a865-1bde88daf34b
+	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Šúå‡ıÿÿÿÿ8÷¬¿Ç2J$9286f086-2ebc-4bfe-ae33-00e9a2976cc8
+	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8÷¬¿Ç2J$ddfbbb5e-e66f-4d43-ac49-52adc59241f4
+	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8÷¬¿Ç2J$dd34808b-16d2-4353-9ee6-bf58b529d0f6
+—
+java:S1192"ODefine a constant instead of duplicating this literal "Data not found" 3 times.(·îˆÁüÿÿÿÿ8ø¬¿Ç2J$91285120-11de-43f6-ad33-435272211e41
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‰Á¸¸8ú¬¿Ç2J$f89709da-beeb-41e4-96a9-4e5e44e761be
+
+java:S4973""<Strings and Boxed types should be compared using "equals()".(í¡…£8ú¬¿Ç2J$be817f68-130e-43c0-b310-f9203f791653
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œä”ûÿÿÿÿ8ú¬¿Ç2J$be7fa6d8-f2d5-4e0f-b5b2-840e4f7c83fe
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­¿Ç2J$89c7c8bf-fbd7-4ecc-88d1-e9e935450fc7
+i
+java:S1452"&Remove usage of generic wildcard type.(îşé¡8­¿Ç2J$0c537d80-f9a5-450e-969a-26e007aa8f36
+n
+java:S14525"&Remove usage of generic wildcard type.(íêÎÂúÿÿÿÿ8“­¿Ç2J$7bd93c23-b77c-4cbc-a22a-1c22ddbd6143
+‰
+java:S1854M"ARemove this useless assignment to local variable "phonebookList".(ÜíÂşÿÿÿÿ8ú³ÀÇ2J$f93645b4-4042-41b5-9110-f0b5cbabc089
+i
+java:S1452K"&Remove usage of generic wildcard type.(òÆ×Ò8–­¿Ç2J$d55ba1d7-1dd6-4b4c-bb52-08b8abbbfafa
+i
+java:S1452Z"&Remove usage of generic wildcard type.(ş´ë8—­¿Ç2J$469ce6b0-9ebf-43ef-8d9a-f97ba4327d89
+n
+java:S1452i"&Remove usage of generic wildcard type.(êê°¢ÿÿÿÿÿ8˜­¿Ç2J$dbd22c80-c4d4-4b94-b321-4c4677254758
