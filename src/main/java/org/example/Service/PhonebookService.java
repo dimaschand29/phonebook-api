@@ -22,6 +22,7 @@ public class PhonebookService {
 
     public ResponseEntity<?> updatePhonebook (Long id, PhonebookDto phonebookDto){
         try {
+            validateRequestPhonebook(phonebookDto);
             Optional <Phonebook> phonebookExistingByIdOpt = phonebookRepository.findById(id);
             if (phonebookExistingByIdOpt.isEmpty()){
                 throw new Exception("Data not found");
@@ -52,6 +53,7 @@ public class PhonebookService {
 
     public ResponseEntity<?> createPhonebook (PhonebookDto phonebookDto){
         try {
+            validateRequestPhonebook(phonebookDto);
             Optional <Phonebook> phonebookExistingByPhoneOpt = phonebookRepository.findByPhone(phonebookDto.getPhone());
             Optional <Phonebook> phonebookExistingByNameOpt = phonebookRepository.findByName(phonebookDto.getName());
             if (!phonebookExistingByPhoneOpt.isEmpty()){
@@ -96,7 +98,6 @@ public class PhonebookService {
             Phonebook phonebook = phonebookExistingByIdOpt.get();
             return ResponseEntityBuilder.okResponse(phonebook);
         } catch (Exception e){
-            e.printStackTrace();
             String msg = e.getMessage();
             return ResponseEntityBuilder.errorResponse(msg);
         }
@@ -111,9 +112,14 @@ public class PhonebookService {
             phonebookRepository.deleteById(id);
             return ResponseEntityBuilder.okResponse(phonebookExistingByIdOpt.get());
         } catch (Exception e){
-            e.printStackTrace();
             String msg = e.getMessage();
             return ResponseEntityBuilder.errorResponse(msg);
+        }
+    }
+
+    public void validateRequestPhonebook (PhonebookDto phonebookDto) throws Exception {
+        if (ObjectUtils.isEmpty(phonebookDto.getName()) || ObjectUtils.isEmpty(phonebookDto.getPhone())){
+            throw new Exception("Name or phone cannot be empty");
         }
     }
 }

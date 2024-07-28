@@ -1,2 +1,9 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®¼·»úÿÿÿÿJ$842bff7d-8a94-4c46-a03f-48218134741d
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®¼·»úÿÿÿÿJ$7e186396-b786-40a2-8ed8-285db6b28cf7
+‡
+java:S1128	"?Remove this unused import 'javax.validation.constraints.Email'.(¸àô¹üÿÿÿÿ8îúÛÌ2J$5fb21c9b-ab00-4d40-8b57-3968b8d31e46
+„
+java:S1128
+"BRemove this unused import 'javax.validation.constraints.NotEmpty'.(ÿÿör8úÜÌ2J$264b70f6-5d23-4ec3-9ac5-47598d9e4391
+‰
+java:S1128"ARemove this unused import 'javax.validation.constraints.Pattern'.(¶ò†€øÿÿÿÿ8úäÛÌ2J$abe1e202-53d7-4b44-b6c6-a9fa78199ec6

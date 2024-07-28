@@ -1,29 +1,34 @@
 
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8õ¬¿Ç2J$f744af0b-0c9c-476d-8d65-c57515b7fe9b
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‘Í¤ëüÿÿÿÿ8õ¬¿Ç2J$5f5c6c6b-7e9c-4653-a73f-5f157999a2de
-	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Šúå‡ıÿÿÿÿ8õ¬¿Ç2J$b4aec504-38c6-4f4f-8c29-554398d0ab44
-	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(‘Í¤ëüÿÿÿÿ8÷¬¿Ç2J$d782fd0b-9899-497b-a865-1bde88daf34b
-	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Šúå‡ıÿÿÿÿ8÷¬¿Ç2J$9286f086-2ebc-4bfe-ae33-00e9a2976cc8
-	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8÷¬¿Ç2J$ddfbbb5e-e66f-4d43-ac49-52adc59241f4
-	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8÷¬¿Ç2J$dd34808b-16d2-4353-9ee6-bf58b529d0f6
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8Ù æÌ2J$75896eb0-e47f-45d6-8af6-a694afe5ca30
+	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(‘Í¤ëüÿÿÿÿ8Ù æÌ2J$7a61b478-5ee4-4fc5-ba36-d8da4a5192db
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Šúå‡ıÿÿÿÿ8Ù æÌ2J$e8219d30-b860-4030-9896-b6d80bcbe970
+	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(‘Í¤ëüÿÿÿÿ8Ú æÌ2J$33017ce1-abf3-4144-9343-d56c2ba39d21
+	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Šúå‡ıÿÿÿÿ8Ú æÌ2J$c821dfef-c7a0-4bc7-b53d-14b7c1de0b62
+	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8Ú æÌ2J$affd0cab-6067-456c-ae1f-ff1f51f8485b
+	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(·îˆÁüÿÿÿÿ8Ú æÌ2J$504231c5-7a1f-40cd-95e4-1475c6db8633
+ˆ	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(½ä 8¹½øÌ2J$9b40462c-1a63-49e9-82f9-305dcfce8a71
+b	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(‘ÔõÈ8°ÔıÌ2
 —
-java:S1192"ODefine a constant instead of duplicating this literal "Data not found" 3 times.(·îˆÁüÿÿÿÿ8ø¬¿Ç2J$91285120-11de-43f6-ad33-435272211e41
+java:S1192"ODefine a constant instead of duplicating this literal "Data not found" 3 times.(·îˆÁüÿÿÿÿ8Û æÌ2J$e6b44fb9-f709-4562-834a-7fb164643c9d
 
-java:S4973"<Strings and Boxed types should be compared using "equals()".(‰Á¸¸8ú¬¿Ç2J$f89709da-beeb-41e4-96a9-4e5e44e761be
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‰Á¸¸8Ü æÌ2J$acb50518-24fc-43d5-83ab-4a19f5ee72a7
 
-java:S4973""<Strings and Boxed types should be compared using "equals()".(í¡…£8ú¬¿Ç2J$be817f68-130e-43c0-b310-f9203f791653
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œä”ûÿÿÿÿ8ú¬¿Ç2J$be7fa6d8-f2d5-4e0f-b5b2-840e4f7c83fe
+java:S4973#"<Strings and Boxed types should be compared using "equals()".(í¡…£8Ü æÌ2J$ae0111c3-07f2-4dd1-b9b3-581f1a403186
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œä”ûÿÿÿÿ8İ æÌ2J$237153f7-c31d-4118-8fc3-16b1458ef932
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­¿Ç2J$89c7c8bf-fbd7-4ecc-88d1-e9e935450fc7
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ö æÌ2J$1caf7882-924f-494e-ba89-473892bcf989
 i
-java:S1452"&Remove usage of generic wildcard type.(îşé¡8­¿Ç2J$0c537d80-f9a5-450e-969a-26e007aa8f36
+java:S1452"&Remove usage of generic wildcard type.(îşé¡8ù æÌ2J$7f382dd2-3c99-495c-b88c-892cee2a432d
 n
-java:S14525"&Remove usage of generic wildcard type.(íêÎÂúÿÿÿÿ8“­¿Ç2J$7bd93c23-b77c-4cbc-a22a-1c22ddbd6143
+java:S14526"&Remove usage of generic wildcard type.(íêÎÂúÿÿÿÿ8ı æÌ2J$45a39cc6-9d54-4ff5-83c6-96aa274451a3
 ‰
-java:S1854M"ARemove this useless assignment to local variable "phonebookList".(ÜíÂşÿÿÿÿ8ú³ÀÇ2J$f93645b4-4042-41b5-9110-f0b5cbabc089
+java:S1854O"ARemove this useless assignment to local variable "phonebookList".(ÜíÂşÿÿÿÿ8€¡æÌ2J$2debae1c-86e3-42a5-bf73-7cdd504031de
 i
-java:S1452K"&Remove usage of generic wildcard type.(òÆ×Ò8–­¿Ç2J$d55ba1d7-1dd6-4b4c-bb52-08b8abbbfafa
+java:S1452M"&Remove usage of generic wildcard type.(òÆ×Ò8€¡æÌ2J$fd207f35-fb14-4fa9-b6d4-532e4ab5f918
 i
-java:S1452Z"&Remove usage of generic wildcard type.(ş´ë8—­¿Ç2J$469ce6b0-9ebf-43ef-8d9a-f97ba4327d89
+java:S1452\"&Remove usage of generic wildcard type.(ş´ë8¡æÌ2J$ad474b6a-0a6d-492d-b66d-ef5448d24019
 n
-java:S1452i"&Remove usage of generic wildcard type.(êê°¢ÿÿÿÿÿ8˜­¿Ç2J$dbd22c80-c4d4-4b94-b321-4c4677254758
+java:S1452j"&Remove usage of generic wildcard type.(êê°¢ÿÿÿÿÿ8‚¡æÌ2J$539fd0f0-7b03-4a98-a269-d31a86e78d54
+
+java:S1128
+"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8«—ëÌ2J$7d829528-d608-48fd-ac7a-f67ceafec01e
